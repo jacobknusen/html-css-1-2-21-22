@@ -1,0 +1,27 @@
+h1{
+    font-size: larger;
+    height: 15px;
+    padding: 15px;
+    margin: 10px;
+    color: pink;
+    background-color: black;
+}
+h2{
+    margin: 10;
+    color: black;
+    background-color: pink;
+
+}
+
+p{
+   height: 60;
+    padding-top: 1px;
+    font-size: large;
+    padding: 15px;
+}
+button{
+    background-color: green;
+}
+*{
+    background-color: wheat;
+}
