@@ -3,8 +3,8 @@ h1{
     height: 15px;
     padding: 15px;
     margin: 10px;
-    color: pink;
-    background-color: black;
+    color: black;
+    background-color: pink;
 }
 h2{
     margin: 10;
@@ -13,8 +13,19 @@ h2{
 
 }
 
+h3{
+    background-color: pink;
+}
+h4{
+    background-color: pink;
+}
+h5{
+    background-color: pink;
+    font-size: medium;
+}
 p{
    height: 60;
+    background-color: pink;
     padding-top: 1px;
     font-size: large;
     padding: 15px;
@@ -23,5 +34,11 @@ button{
     background-color: green;
 }
 *{
-    background-color: wheat;
+    background-color: black;
+}
+input{
+    background-color: white;
+}
+img{
+    width: 500px
 }
